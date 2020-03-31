@@ -1,4 +1,4 @@
 theme: jekyll-theme-modernist
-title: [<h1>Chemiotic Engineering</h1>]
+title: [Chemiotic Engineering]
 description: [Process Plant Automation and Advanced Control]
-show_downloads: [false]
+show_downloads: "false"
