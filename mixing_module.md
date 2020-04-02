@@ -9,11 +9,12 @@ The module can be projected in two versions:
 * fully manual version (low cost and easy setup);
 * automatic and controlled version (higher cost).
 
-![3D Front View](/images/mix1.jpg)
+![3D Front View](/images/manual_module.png)
 
 # Topics
 
 * [OMS Recipe](/oms_recipe.html)
+* [Rack](/rack.html)
 * [Pump Choice](/pump_choice.html)
 * [Flow Control](/flow_control.html)
 * [Automation Code](/automation_code.html)
