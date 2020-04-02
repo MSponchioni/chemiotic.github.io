@@ -13,7 +13,7 @@ We are working on several topics in the area of Chemical Enginering :
 * [Wireless Box](./wireless_box.html)
 
 ## Skids And Modules
-* [*Mixing Module*](./mixing_module.html)
+* [Mixing Module](./mixing_module.html) *(open access)*
 * [Disinfection Skid](./disinfection_skid.html)
 * [Surfactant Module](./surfactant_module.html)
 * [PES Depolymerization Module](./pes_depolymerization.html)
